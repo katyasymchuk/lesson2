@@ -1,0 +1,50 @@
+div{
+    justify-content: center;
+    align-items: center;
+    Display:flex;
+    color: aliceblue;
+
+}
+.widgets{
+    background: #9166e7;
+    width: 600px;
+    height: 200px;
+    margin: 10px;
+    font-size: 40px;
+
+}
+.container{
+
+    width: 600px;
+    height: 200px;
+    margin: 10px;
+    font-size: 20px;
+
+}
+.big{
+    background: #a683ff;
+    width: 200px;
+    height: 200px;
+    margin: 0px 5px 0px 0px;
+
+}
+.bigger{
+    background: #b59fef;
+    width: 200px;
+    height: 200px;
+    margin: 0px 5px 0px 5px;
+}
+.huge{
+    background: #a891e3;
+    width: 200px;
+    height: 200px;
+    margin: 0px 0px 0px 5px;
+
+}
+.contact{
+    background: #9166e7;
+    width: 600px;
+    height: 400px;
+    margin: 10px;
+    font-size: 40px;
+}

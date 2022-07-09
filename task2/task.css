@@ -1,0 +1,52 @@
+div {
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px 10px;
+    
+}
+.container {
+    display: flex;
+    width: 800px;
+    height: 500px;
+}
+.responsive{
+    border: 1px solid #999;
+    align-items: center;
+    padding: 20px;
+}
+
+.interface {
+    border: 1px solid #999;
+    align-items: center;
+    padding: 20px;
+    margin: 30px;
+}
+.web {
+    border: 1px solid #999;
+    align-items: center;
+    padding: 20px;
+}
+.botton1{
+     border: 1px solid #999;
+     padding: 15px;
+     margin: 10px;
+
+ }
+.botton2 {
+    border: 1px solid #999;
+    padding: 15px;
+    margin: 10px;
+}
+.botton3 {
+    border: 1px solid #999;
+    padding: 15px;
+    margin: 10px;
+}
+p{
+    color: #575656;
+}
+a{
+    color: black;
+}
